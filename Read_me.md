@@ -47,4 +47,4 @@ Git add
 
 New code
 
-Text for line_two. Error_new.
+Text for line_two. Create commit on master and line_two branches.
