@@ -48,3 +48,6 @@ Git add
 New code
 
 There will be text that is added and saved after creating a new branch _line_for_edit_. To see conflict.
+I change the contents of line 50 in branch *line_for_edit* to create a conflict.
+
+The conflict was resolved by selecting the item "Accept Both Changes" In this case, line 50 of branch *master* was preserved in its place, and line 50 from branch *line_for_edit* was written to line 51.
