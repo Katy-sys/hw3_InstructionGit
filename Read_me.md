@@ -47,4 +47,4 @@ Git add
 
 New code
 
-Text for line_two. Create commit on master and line_two branches.
+There will be text that is added and saved after creating a new branch _line_for_edit_. To see conflict.
