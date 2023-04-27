@@ -47,4 +47,4 @@ Git add
 
 New code
 
-Text for line_two. Create error.
+Text for line_two
