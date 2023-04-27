@@ -47,4 +47,4 @@ Git add
 
 New code
 
-Text for line_two. Create commit on master and line_two branches.
+I change the contents of line 50 in branch *line_for_edit* to create a conflict.
