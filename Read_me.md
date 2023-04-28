@@ -53,3 +53,4 @@ I change the contents of line 50 in branch *line_for_edit* to create a conflict.
 The conflict was resolved by selecting the item "Accept Both Changes" In this case, line 50 of branch *master* was preserved in its place, and line 50 from branch *line_for_edit* was written to line 51.
 
 Сейчас будет PULL!
+===
